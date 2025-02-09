@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Code\pascal\Tugas2IF1\Penerimaan dan Pengeluaran Barang.dp
+Name=Penerimaan dan Pengeluaran Barang
+MainUnit=D:\Code\pascal\Tugas2IF1\PenerimaanDanPengeluaranBarang.pas
+UnitCount=1
+ResFiles=D:\Code\pascal\Tugas2IF1\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Code\pascal\Tugas2IF1\PenerimaanDanPengeluaranBarang.pas
+FileTime=1514776792
